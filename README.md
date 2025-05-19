@@ -51,9 +51,5 @@ Improve detection, add defect types, optimize sorting, add statistics, etc.
 
 ## **Author**
 
-\[Your Name / GitHub Username\]  
-\[Link to your GitHub profile (Optional)\]
+Khemir Abderrahmen
 
-## **License**
-
-\[Add your project's license information here\]"# JarDefectDetection-Webots-YOLO" 
