@@ -1,0 +1,12 @@
+Webots Project File version R2025a
+perspectives: 000000ff00000000fd00000002000000010000016f000003e9fc0200000001fb0000001400540065007800740045006400690074006f00720100000019000003e90000008a00ffffff00000003000007800000003afc0100000001fb0000001a0043006f006e0073006f006c00650041006c006c0041006c006c01000000000000078000000000000000000000060f000003e900000001000000020000000100000008fc00000000
+simulationViewPerspectives: 000000ff0000000100000002000000fc000001ea0100000002010000000100
+sceneTreePerspectives: 000000ff000000010000000300000022000000c0000000fa0100000002010000000200
+maximizedDockId: -1
+centralWidgetVisible: 1
+orthographicViewHeight: 1
+textFiles: 3 "worlds/Universal Robot OpenCV.wbt" "controllers/Jars_ctrl/Jars_ctrl.py" "controllers/JarsSorting_ctrl/JarsSorting_ctrl.py" "controllers/fruit_sorting_ctrl_opencv/fruit_sorting_ctrl_opencv.py"
+renderingDevicePerspectives: Fruit CTRL:camera;0;0.213333;0.268691;0.305177
+renderingDevicePerspectives: UR5e:camera;1;0.92;0.434431;0
+renderingDevicePerspectives: UR5e:display;1;0.935;0.239631;0
+renderingDevicePerspectives: UR5e:hmi;1;1.015;9.39551e-05;0
